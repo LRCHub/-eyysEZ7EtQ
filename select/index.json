@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Sea Talk",
+  "base_artist": "林 和希",
+  "createdAt": "2025-12-29T09:49:16.773726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sea Talk",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/01_Sea_Talk_Zola_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sea Talk",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/02_Sea_Talk_Zola_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sea Talk.",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/03_Sea_Talk._Zola_Jesus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sea Talk",
+      "artist": "林和希",
+      "has_synced": false,
+      "path": "select/pl_01_Sea_Talk_林和希.txt"
+    }
+  ]
+}
